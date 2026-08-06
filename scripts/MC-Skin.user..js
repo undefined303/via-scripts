@@ -23,6 +23,8 @@
 // @require         https://fastly.jsdelivr.net/npm/skinview3d@3.4.1/bundles/skinview3d.bundle.min.js
 // @require         https://fastly.jsdelivr.net/npm/three@0.128.0/build/three.min.js
 // @require         data:text/javascript,window.define%20%3D%20origdef%3B
+// @category        UI Enhancement
+// @icon            🎁
 // ==/UserScript==
 (function() {
 	const key = encodeURIComponent('MC skin：执行判断');
