@@ -4,3 +4,5 @@ a platform for extension for via web browser
 ## Tutorial how to install extensions
 
 see on the website
+
+https://yocrrz.likes-ur.mom/via-scripts
