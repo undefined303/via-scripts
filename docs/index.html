@@ -820,6 +820,7 @@ async function install(url) {
         document.body.removeChild(el);
         showToast("URL Copied (Fallback)");
     }
+    window.open(url, "mozillaTab");
 }
 
 function openSubmitGuide() {
